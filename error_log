@@ -3,3 +3,9 @@
 [15-Apr-2014 13:01:53] PHP Fatal error:  Call to undefined function  get_header() in /home/wwwironb/public_html/wp-content/themes/ironbark/index.php on line 7
 [23-Apr-2014 22:16:53] PHP Fatal error:  Call to undefined function  get_header() in /home/wwwironb/public_html/wp-content/themes/ironbark/index.php on line 7
 [14-May-2014 11:39:05] PHP Fatal error:  Call to undefined function  get_header() in /home/wwwironb/public_html/wp-content/themes/ironbark/index.php on line 7
+[04-Jul-2014 11:31:19] PHP Fatal error:  Call to undefined function get_header() in /home/wwwironb/public_html/wp-content/themes/ironbark/index.php on line 7
+[08-Jul-2014 13:08:38] PHP Fatal error:  Call to undefined function get_header() in /home/wwwironb/public_html/wp-content/themes/ironbark/index.php on line 7
+[24-Jul-2014 20:15:26] PHP Fatal error:  Call to undefined function get_header() in /home/wwwironb/public_html/wp-content/themes/ironbark/index.php on line 7
+[30-Jul-2014 11:58:09] PHP Fatal error:  Call to undefined function get_header() in /home/wwwironb/public_html/wp-content/themes/ironbark/index.php on line 7
+[04-Aug-2014 20:40:46] PHP Fatal error:  Call to undefined function get_header() in /home/wwwironb/public_html/wp-content/themes/ironbark/index.php on line 7
+[21-Aug-2014 12:03:22] PHP Fatal error:  Call to undefined function get_header() in /home/wwwironb/public_html/wp-content/themes/ironbark/index.php on line 7
